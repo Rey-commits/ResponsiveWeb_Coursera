@@ -14,3 +14,27 @@ h4 {
 a {
 	font-family: serif;
 }
+
+a:hover {
+	color: orange;
+	background: white;
+}
+
+main {
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+@media (min-width: 750px) {
+	.responsive {
+		display:inline-block;
+		width: 200px;
+	}
+}
+
+@media (min-width: 1000px) {
+	a {
+		display:inline-block;
+		width: 200px
+	}
+}
