@@ -1,0 +1,8 @@
+/** This is a comment that the browser will ignore,
+* Put your CSS code into this file
+*/
+h1 {
+	font-family: serif; /* set font of h1 to serif */
+	background: green; /* set backgound color of h1 to green */
+	color: orange; /* set font color to orange*/
+}
